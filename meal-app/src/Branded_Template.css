@@ -1,0 +1,54 @@
+body {
+    background-color: white;/* Will this override system settings, e.g. dark mode? */
+    
+   }
+   
+   title {
+     font-family:"Libre Baskerville";
+     panose-1:2 0 0 0 0 0 0 0 0 0;
+     color: black;
+     font-size: 26.0pt;
+   }
+   
+   h1 {
+     font-family:"Libre Baskerville";
+     panose-1:2 0 0 0 0 0 0 0 0 0;
+     color: black;
+     font-size: 16.0pt;
+   }
+   
+   h2 {
+     font-family:"IBM Plex Sans";
+     panose-1:2 11 5 3 5 2 3 0 2 3;
+     color: #BD368D;
+     font-size: 13.0pt;
+   }
+   
+   h3 {
+     font-family:"IBM Plex Sans";
+     panose-1:2 11 5 3 5 2 3 0 2 3;
+     color: #4B4B4B;
+     font-weight: italic;
+     font-size: 12.0pt;
+   }
+   
+   
+   p {
+     background-color: white;
+     margin-top:0in;
+       margin-right:0in;
+       margin-bottom:8.0pt;
+       margin-left:0in;
+       line-height:107%;
+       font-size:11.0pt;
+       font-family:"IBM Plex Sans",sans-serif;
+     color: black;
+   }
+   
+   
+   a:link {
+     color:#0563C1;
+       text-decoration:underline;}
+   
+   ol, ul
+       {margin-bottom:8.0pt;}
