@@ -1,5 +1,5 @@
 import logo from './Logos/FRGLogo-PNG-white.png';
-// import './App.css';
+import IngredientsTable from './ingredients';
 import './Branded_Template.css'
 const pinterestClick = () => {
   console.log('Button clicked! Fetching the soup recipe...');
@@ -35,11 +35,15 @@ function App() {
     <div className="App">
       <header>
         <link rel="icon" href={logo} />
-        <title>Meal Scheduler</title>
-        <h1 className='title1'>Welcome to the Meal Scheduler</h1>
-        <h2>Spinach Tortellini Soup</h2>
-        <button onClick={pinterestClick}>Pinterest</button>
-        <button onClick={recipeClick}>Recipe</button>
+        <title>Sam's AMAZING Cookbook</title>
+        <h1 className='title1'>Sam's AMAZING Cookbook</h1>
+        <IngredientsTable />
+        <div className="section">
+          <h2>Meal of the Day</h2>
+          <h3>Spinach Tortellini Soup</h3>
+          <button onClick={pinterestClick}>Pinterest</button>
+          <button onClick={recipeClick}>Recipe</button>
+        </div>
       </header>
     </div>
   );

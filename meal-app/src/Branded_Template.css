@@ -22,7 +22,9 @@ body {
      panose-1:2 11 5 3 5 2 3 0 2 3;
      color: #BD368D;
      font-size: 13.0pt;
-   }
+     display: block;
+      margin-top: 10em;
+   }r
    
    h3 {
      font-family:"IBM Plex Sans";
@@ -31,7 +33,6 @@ body {
      font-weight: italic;
      font-size: 12.0pt;
    }
-   
    
    p {
      background-color: white;
