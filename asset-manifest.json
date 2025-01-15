@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3ab3c70.css",
-    "main.js": "/static/js/main.e90b90fa.js",
-    "static/js/453.4ae62531.chunk.js": "/static/js/453.4ae62531.chunk.js",
-    "static/media/FRGLogo-PNG-white.png": "/static/media/FRGLogo-PNG-white.3a78cdc2be2546c5aeec.png",
-    "index.html": "/index.html",
-    "main.d3ab3c70.css.map": "/static/css/main.d3ab3c70.css.map",
-    "main.e90b90fa.js.map": "/static/js/main.e90b90fa.js.map",
-    "453.4ae62531.chunk.js.map": "/static/js/453.4ae62531.chunk.js.map"
+    "main.css": "/meal-scheduler/static/css/main.d3ab3c70.css",
+    "main.js": "/meal-scheduler/static/js/main.68f161c2.js",
+    "static/js/453.4ae62531.chunk.js": "/meal-scheduler/static/js/453.4ae62531.chunk.js",
+    "static/media/FRGLogo-PNG-white.png": "/meal-scheduler/static/media/FRGLogo-PNG-white.3a78cdc2be2546c5aeec.png",
+    "index.html": "/meal-scheduler/index.html",
+    "main.d3ab3c70.css.map": "/meal-scheduler/static/css/main.d3ab3c70.css.map",
+    "main.68f161c2.js.map": "/meal-scheduler/static/js/main.68f161c2.js.map",
+    "453.4ae62531.chunk.js.map": "/meal-scheduler/static/js/453.4ae62531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ab3c70.css",
-    "static/js/main.e90b90fa.js"
+    "static/js/main.68f161c2.js"
   ]
 }
