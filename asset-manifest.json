@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meal-app/static/css/main.d3ab3c70.css",
-    "main.js": "/meal-app/static/js/main.632a94c1.js",
-    "static/js/453.4ae62531.chunk.js": "/meal-app/static/js/453.4ae62531.chunk.js",
-    "static/media/FRGLogo-PNG-white.png": "/meal-app/static/media/FRGLogo-PNG-white.3a78cdc2be2546c5aeec.png",
-    "index.html": "/meal-app/index.html",
-    "main.d3ab3c70.css.map": "/meal-app/static/css/main.d3ab3c70.css.map",
-    "main.632a94c1.js.map": "/meal-app/static/js/main.632a94c1.js.map",
-    "453.4ae62531.chunk.js.map": "/meal-app/static/js/453.4ae62531.chunk.js.map"
+    "main.css": "/meal-scheduler/static/css/main.d3ab3c70.css",
+    "main.js": "/meal-scheduler/static/js/main.68f161c2.js",
+    "static/js/453.4ae62531.chunk.js": "/meal-scheduler/static/js/453.4ae62531.chunk.js",
+    "static/media/FRGLogo-PNG-white.png": "/meal-scheduler/static/media/FRGLogo-PNG-white.3a78cdc2be2546c5aeec.png",
+    "index.html": "/meal-scheduler/index.html",
+    "main.d3ab3c70.css.map": "/meal-scheduler/static/css/main.d3ab3c70.css.map",
+    "main.68f161c2.js.map": "/meal-scheduler/static/js/main.68f161c2.js.map",
+    "453.4ae62531.chunk.js.map": "/meal-scheduler/static/js/453.4ae62531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ab3c70.css",
-    "static/js/main.632a94c1.js"
+    "static/js/main.68f161c2.js"
   ]
 }
